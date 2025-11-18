@@ -1,10 +1,6 @@
-# Career Navigator: AI-Driven Job Application Assistant
+# NLP Based Resume Screener Tool
 
-The Career Navigator is an AI-driven system developed to optimize the job application process by automating resume screening and providing intelligent job recommendations. This project leverages advanced machine learning models and natural language processing (NLP) techniques to streamline the matching of candidates to suitable job positions.
-
-## Project Overview
-
-The Career Navigator uses two distinct datasets to train and evaluate its algorithms, enhancing the precision of job categorization and recommendation based on resumes.
+This project leverages advanced machine learning models and natural language processing (NLP) techniques to streamline the matching of candidates to suitable job positions.
 
 ### Key Features
 
